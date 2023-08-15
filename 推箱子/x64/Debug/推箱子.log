@@ -1,0 +1,4 @@
+﻿  源.cpp
+C:\Users\Administrator\Desktop\推箱子\chengxu\推箱子\源.cpp(102,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\推箱子\chengxu\推箱子\源.cpp(103,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  推箱子.vcxproj -> C:\Users\Administrator\Desktop\推箱子\chengxu\推箱子\x64\Debug\推箱子.exe
